@@ -1,1 +1,1 @@
-# -JP-Morgan-Virtual-Internship-Second-Task
+# JP Morgan Virtual Internship Second Task
